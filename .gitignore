@@ -1,1 +1,10 @@
 /node_modules
+
+.claude
+CLAUDE.md
+
+razr-fargate-service.component.ts
+
+.mcp.json
+
+.DS_Store
